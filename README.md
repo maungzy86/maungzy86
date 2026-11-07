@@ -13,7 +13,7 @@
 
 ---
 
-### ⚔️ My Grimoire — Tools I Use
+ ⚔️ My Grimoire — Tools I Use
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 
 </div>
 
-### 📊 Battle Records
+ 📊 Battle Records
 
 <div align="center">
 
@@ -39,7 +39,7 @@
 
 </div>
 
-### 🐍 Contribution Snake
+ 🐍 Contribution Snake
 
 <div align="center">
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,19,25&height=200&section=header&text=MAUNGZY&fontSize=64&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Black%20Clover%20Fan%20%E2%80%A2%20Anime%20Enjoyer%20%E2%80%A2%20Never%20Give%20Up&descSize=17&descAlignY=56" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,19,25&height=200&section=header&text=MAUNGZY&fontSize=64&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=EAB308&background=0D111700&center=true&vCenter=true&width=640&lines=My+magic+is+never+giving+up!;Surpass+your+limits+%E2%80%94+right+here,+right+now;Future+Wizard+King+in+training;Anime+%E2%80%A2+Code+%E2%80%A2+Repeat" alt="Typing SVG" /></a>
 

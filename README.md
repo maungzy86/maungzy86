@@ -13,12 +13,7 @@
 
 ---
 
-## ⚡ About Me
 
-- 🌐 **Web3 explorer** based in Indonesia, active on **BNB Chain**
-- 🎯 Hunting **free mints, airdrops, and on-chain opportunities** — always verified on-chain before touching anything
-- 🔗 Building and experimenting with **WalletConnect** dApps
-- 📚 Currently learning more about smart contracts and agent-driven Web3 workflows
 
 ## 🛠️ Tech Stack
 
@@ -35,15 +30,7 @@
 
 </div>
 
-## 📌 Featured Project
 
-<div align="center">
-
-<a href="https://github.com/RyskaaaXgf/walletconnect-dapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RyskaaaXgf&repo=walletconnect-dapp&theme=tokyonight&bg_color=0D1117&title_color=00F5A0&text_color=C9D1D9&border_color=00F5A0" alt="walletconnect-dapp" /></a>
-
-</div>
-
-> **walletconnect-dapp** — a simple Web3 app that integrates WalletConnect for seamless wallet connections: connect wallet, read address, sign messages. Built as part of the WalletConnect Builders program.
 
 ## 📊 GitHub Stats
 

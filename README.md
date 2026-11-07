@@ -30,8 +30,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=maungzy86&show_icons=true&title_color=EAB308&icon_color=F85149&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maungzy86&layout=compact&title_color=EAB308&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=maungzy86&show_icons=true&title_color=EAB308&icon_color=F85149&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maungzy86&layout=compact&title_color=EAB308&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Top languages" />
 
 <br/>
 

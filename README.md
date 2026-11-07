@@ -13,7 +13,7 @@
 
 ---
 
- ⚔️ My Grimoire — Tools I Use
+### ⚔️ My Grimoire — Tools I Use
 
 <div align="center">
 
@@ -26,12 +26,16 @@
 
 </div>
 
- 📊 Battle Records
+### 📊 Battle Records
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=maungzy86&show_icons=true&title_color=EAB308&icon_color=F85149&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maungzy86&layout=compact&title_color=EAB308&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Top languages" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+
+<br/>
+
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
 
 <br/>
 
@@ -39,7 +43,7 @@
 
 </div>
 
- 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
 <div align="center">
 

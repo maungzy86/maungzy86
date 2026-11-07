@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,19,25&height=200&section=header&text=MAUNGZY&fontSize=64&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Web3%20Explorer%20%E2%80%A2%20BNB%20Chain%20%E2%80%A2%20Binance%20Agent%20ID%3A%20maungzy.ai&descSize=17&descAlignY=56" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,19,25&height=200&section=header&text=MAUNGZY&fontSize=64&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Web3%20Explorer%20%E2%80%A2%20BNB%20Chain%20%E2%80%A2%20NFT%20%26%20Airdrop%20Hunter&descSize=17&descAlignY=56" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F5A0&background=0D111700&center=true&vCenter=true&width=620&lines=Web3+Explorer+on+BNB+Chain;Binance+Agent+ID+%E2%80%94+maungzy.ai;NFT+%26+Airdrop+Hunter;Building+with+WalletConnect" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F5A0&background=0D111700&center=true&vCenter=true&width=620&lines=Web3+Explorer+on+BNB+Chain;Verify+First,+Transact+Second;NFT+%26+Airdrop+Hunter;Building+with+WalletConnect" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -16,7 +16,6 @@
 ## ⚡ About Me
 
 - 🌐 **Web3 explorer** based in Indonesia, active on **BNB Chain**
-- 🤖 **Binance Agent ID:** `maungzy.ai` — exploring the Agentic Wallet ecosystem
 - 🎯 Hunting **free mints, airdrops, and on-chain opportunities** — always verified on-chain before touching anything
 - 🔗 Building and experimenting with **WalletConnect** dApps
 - 📚 Currently learning more about smart contracts and agent-driven Web3 workflows

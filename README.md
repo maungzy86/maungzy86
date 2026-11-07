@@ -6,20 +6,12 @@
 
 <br/>
 
-<a href="https://github.com/RyskaaaXgf"><img src="https://img.shields.io/github/followers/RyskaaaXgf?label=Followers&style=for-the-badge&color=00D9F5&logo=github&logoColor=black" alt="Followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=RyskaaaXgf&label=Profile%20Views&color=EAB308&style=for-the-badge" alt="Profile views" />
+<a href="https://github.com/maungzy86"><img src="https://img.shields.io/github/followers/maungzy86?label=Followers&style=for-the-badge&color=00D9F5&logo=github&logoColor=black" alt="Followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=maungzy86&label=Profile%20Views&color=EAB308&style=for-the-badge" alt="Profile views" />
 
 </div>
 
 ---
-
-### 🍀 About Me
-
-- ⚔️ **Black Clover** enthusiast — proud of the Black Bulls energy: loud, chaotic, never backing down
-- 📺 Anime watcher on a never-ending training arc
-- 💻 Tinkering with code between episodes
-- 💪 Motto: *"My magic is never giving up."* — Asta
-- 🎯 Current quest: turning this GitHub into an active base camp, one commit at a time
 
 ### ⚔️ My Grimoire — Tools I Use
 
@@ -38,12 +30,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RyskaaaXgf&show_icons=true&title_color=EAB308&icon_color=F85149&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyskaaaXgf&layout=compact&title_color=EAB308&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=maungzy86&show_icons=true&title_color=EAB308&icon_color=F85149&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maungzy86&layout=compact&title_color=EAB308&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=RyskaaaXgf&theme=tokyonight&background=0D1117&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=maungzy86&theme=tokyonight&background=0D1117&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -52,9 +44,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyskaaaXgf/RyskaaaXgf/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyskaaaXgf/RyskaaaXgf/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RyskaaaXgf/RyskaaaXgf/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maungzy86/maungzy86/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maungzy86/maungzy86/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maungzy86/maungzy86/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>

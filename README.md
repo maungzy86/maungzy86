@@ -34,16 +34,6 @@
 
 </div>
 
-### 📌 Featured Project
-
-<div align="center">
-
-<a href="https://github.com/RyskaaaXgf/walletconnect-dapp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RyskaaaXgf&repo=walletconnect-dapp&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="walletconnect-dapp" />
-</a>
-
-</div>
-
 ### 📊 Battle Records
 
 <div align="center">

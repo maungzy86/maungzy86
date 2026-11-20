@@ -1,66 +1,19 @@
-<div align="center">
+# Hi, I'm maungzy 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,19,25&height=200&section=header&text=MAUNGZY&fontSize=64&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
+Independent builder — AI agents & automation, web research, data extraction. Building Contract Scout and other agent tools.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=EAB308&background=0D111700&center=true&vCenter=true&width=640&lines=My+magic+is+never+giving+up!;Surpass+your+limits+%E2%80%94+right+here,+right+now;Future+Wizard+King+in+training;Anime+%E2%80%A2+Code+%E2%80%A2+Repeat" alt="Typing SVG" /></a>
+## What I build
 
-<br/>
+- **AI agents** — autonomous tools that research, extract, and act on information.
+- **Automation** — workflows that turn repetitive manual work into reliable systems.
+- **Research tooling** — web research and data extraction for real decisions.
 
-<a href="https://github.com/maungzy86"><img src="https://img.shields.io/github/followers/maungzy86?label=Followers&style=for-the-badge&color=00D9F5&logo=github&logoColor=black" alt="Followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=maungzy86&label=Profile%20Views&color=EAB308&style=for-the-badge" alt="Profile views" />
+## Featured projects
 
-</div>
+- **[Contract Scout](https://github.com/maungzy86/contract-scout)** — an OpenMinion agent that safety-checks EVM contracts with an authored `contract_check` tool.
+- **[AgentBadge](https://github.com/maungzy86/agentbadge)** — a free NFT badge gated by Binance Agent ID (.ai) ownership.
+- **[ReactiveGuard](https://github.com/maungzy86/reactive-guard)** — a self-firing reactive stop-loss for DEX positions.
 
----
+## Contact
 
-### ⚔️ My Grimoire — Tools I Use
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-### 📊 Battle Records
-
-<div align="center">
-
-<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
-
-<br/>
-
-<img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
-<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=maungzy86&theme=tokyonight&background=0D1117&hide_border=true" alt="GitHub streak" />
-
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maungzy86/maungzy86/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maungzy86/maungzy86/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maungzy86/maungzy86/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-*"Surpass your limits. Right here. Right now."* — Yami Sukehiro 🍀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,19,25&height=110&section=footer" width="100%"/>
-
-</div>
+- 💼 [Contra](https://contra.com/ahmadmaungzy/about)

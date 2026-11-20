@@ -1,6 +1,6 @@
-# Hi, I'm maungzy 👋
+# Zynth Labs
 
-Independent builder — AI agents & automation, web research, data extraction. Building Contract Scout and other agent tools.
+Zynth Labs is an AI agent & automation studio — we build practical AI agents, web research and data extraction tools. Home of Contract Scout.
 
 ## What I build
 
@@ -10,10 +10,11 @@ Independent builder — AI agents & automation, web research, data extraction. B
 
 ## Featured projects
 
-- **[Contract Scout](https://github.com/maungzy86/contract-scout)** — an OpenMinion agent that safety-checks EVM contracts with an authored `contract_check` tool.
-- **[AgentBadge](https://github.com/maungzy86/agentbadge)** — a free NFT badge gated by Binance Agent ID (.ai) ownership.
-- **[ReactiveGuard](https://github.com/maungzy86/reactive-guard)** — a self-firing reactive stop-loss for DEX positions.
+- **[Contract Scout](https://github.com/zynthlabsio/contract-scout)** — an OpenMinion agent that safety-checks EVM contracts with an authored `contract_check` tool.
+- **[AgentBadge](https://github.com/zynthlabsio/agentbadge)** — a free NFT badge gated by Binance Agent ID (.ai) ownership.
+- **[ReactiveGuard](https://github.com/zynthlabsio/reactive-guard)** — a self-firing reactive stop-loss for DEX positions.
+- **[CryptoGlance](https://github.com/zynthlabsio/cryptoglance)** — a simple, fast crypto tracker.
 
 ## Contact
 
-- 💼 [Contra](https://contra.com/ahmadmaungzy/about)
+- 💼 [Contra](https://contra.com/zynthlabs)
